@@ -1,0 +1,15 @@
+.badge-green {
+  background-color: #22c55e;
+  color: white;
+  padding: 4px 10px;
+  border-radius: 999px;
+  font-size: 0.85rem;
+}
+
+.badge-gray {
+  background-color: #9ca3af;
+  color: white;
+  padding: 4px 10px;
+  border-radius: 999px;
+  font-size: 0.85rem;
+}
