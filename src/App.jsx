@@ -36,7 +36,7 @@ function App() {
 
         <aside className="md:col-span-1">
           <Section title="Skills">
-            <ul className="space-y-2 text-gray-700">
+            <ul className="space-y-2 text-gray-500">
               <li>React</li>
               <li>Tailwind CSS</li>
               <li>JavaScript</li>
